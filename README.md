@@ -1,5 +1,5 @@
 # google-streetview-upload
-Upload a folder of spherical photos to Google Street View using Street View Publish API
+Upload a folder of spherical photos to Google Street View using Street View Publish API. Instalation process is broken, use https://github.com/trolleway/google_streetview_uploader.sh instead
 
 # Installation
 
